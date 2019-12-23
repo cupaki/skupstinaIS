@@ -1,0 +1,123 @@
+<section class="content" ng-controller="addGlavaController">
+<div class ="row">
+<div class="col-md-6">
+
+			<div class="box box-primary" >
+				<div class="box-header with-border">
+					<h3 class="box-title">Glava</h3>
+				</div>
+				<!-- /.box-header -->
+				<!-- form start -->
+				<form role="form" class="ng-pristine ng-valid">
+					<div class="box-body">
+						<div class="form-group">
+							<label for="exampleInputEmail1">Naziv</label> <input type="text" ng-model="glava_naziv" class="form-control ng-pristine ng-untouched ng-valid ng-empty" id="exampleInputEmail1" placeholder="Naziv">
+						</div>
+						
+					</div>
+					<!-- /.box-body -->
+				</form>
+			</div>
+			
+			
+			
+			<div class="box box-primary" >
+				<div class="box-header with-border">
+					<h3 class="box-title">Clan</h3>
+				</div>
+				<!-- /.box-header -->
+				<!-- form start -->
+				<form role="form" class="ng-pristine ng-valid">
+					<div class="box-body">
+
+						<div class="form-group">
+							<label for="exampleInputEmail1">Naziv</label> <input type="text" ng-model="clan_naziv" class="form-control ng-pristine ng-untouched ng-valid ng-empty" id="exampleInputEmail1" placeholder="Naziv">
+						</div>
+						<div class="form-group">
+							<label for="exampleInputEmail1">Opis</label> <input type="text" ng-model="clan_opis" class="form-control ng-pristine ng-untouched ng-valid ng-empty" id="exampleInputEmail1" placeholder="Naziv">
+						</div>
+						<div class="form-group">
+							<label>Sadrzaj</label>
+							<!-- ngRepeat: sadrzaj in sadrzaji -->
+						</div>
+
+					</div>
+					<!-- /.box-body -->
+
+
+				</form>
+			</div>
+			<!-- /.box -->
+			<div class="box box-primary">
+				<div class="box-header with-border">
+					<h3 class="box-title">Sadrzaj</h3>
+				</div>
+				<!-- /.box-header -->
+				<!-- form start -->
+				<form role="form" class="ng-pristine ng-valid">
+					<div class="box-body">
+
+          
+						<div class="form-group">
+							<label for="exampleInputEmail1">Tekst</label> <br/>
+							<label for="exampleInputEmail1"><a ng-click="sakrijClanove()" class="btn btn-success btn-sm"><span class="glyphicon glyphicon-plus"></span>Ubaci 'Prema clanu'</a></label> 
+							<input type="text" ng-model="sadrzaj_tekst" class="form-control ng-pristine ng-untouched ng-valid ng-empty" id="exampleInputEmail1" placeholder="Tekst">
+
+						</div>
+						
+
+					</div>
+					<!-- /.box-body -->
+
+
+
+				</form>
+			</div>
+			<!-- /.box -->
+			
+		<button type="submit" ng-click="insertGlava()" class="btn btn-primary">Dodaj glavu</button>
+			
+
+		</div>
+		
+
+<div class="col-md-6">
+		
+		<div class="box box-primary" ng-hide=hideClanove>
+			Odaberite clan na koji ce se odnositi tekst iz sadrzaja
+	
+                <div class="box-body">
+                  <ul class="products-list product-list-in-box">
+                    <li class="item" ng-repeat="propis in propisi">
+                      <div class="product-img">
+                        <img src="dist/img/nsgrb2.gif" alt="Product Image">
+                      </div>
+                      <div class="product-info">
+                   <h5> <a href="javascript::;" ng-click="getPropisById(propis.id)" class="product-title">{{propis.naziv}}</a> </h5> 
+                        	<div ng-repeat="deo in propis.deo">
+									<div ng-repeat="glava in deo.glava">
+										<div ng-repeat="clan in glava.clan">
+											<h6><label for="exampleInputEmail1">{{clan.naziv}}</label>  
+											<button type="submit" ng-click="informacijeOClanu(clan,glava,deo,propis)" class="btn btn-success btn-sm">Info</button>
+											<button type="submit" ng-click="dodajReferencuNaOvajClan(clan,glava,deo,propis)" class="btn btn-primary btn-sm">Dodaj</button>
+											</h6>
+										</div>
+									</div>
+									
+									<div ng-repeat="clan in deo.clan">
+											<h6><label for="exampleInputEmail1">{{clan.naziv}}</label>
+											<button type="submit" ng-click="informacijeOClanu(clan,glava,deo,propis)" class="btn btn-success btn-sm">Info</button>
+											<button type="submit" ng-click="dodajReferencuNaOvajClan(clan,glava,deo,propis)" class="btn btn-primary btn-sm">Dodaj</button>
+											</h6>
+									</div>
+                   	     	</div>
+                      </div>
+                    </li><!-- /.item -->
+                  </ul>
+                </div><!-- /.box-body -->
+		
+		</div>
+		
+</div>		
+</div>
+</section>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akt:Akt xmlns:clan="http://www.parlament.gov.rs/clan"
+ xmlns:akt="http://www.parlament.gov.rs/akt"
+ xmlns:aman="http://www.parlament.gov.rs/amandman"
+ xmlns:pro="http://www.parlament.gov.rs/propis"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.parlament.gov.rs/akt file:/C:/Users/halap/Desktop/scheme/Skupstina-sema.xsd">
+    <aman:Amandman Datum="2017-12-23Z" Mesto="vD6KfqDH0" Redni_broj="715343531" ID="107490351" Podnosilac="gdJz9PPRqL.-">
+        <pro:Propis ID="1369217158">
+            <pro:Naziv>p</pro:Naziv>
+            <pro:Deo ID="169959225">
+                <pro:Naziv>vELvwoK1YwqrAHOb3cOa1</pro:Naziv>
+                <pro:Glava ID="1950738312">
+                    <pro:Naziv>fp1YvD.g_rAlOLdo0mfjwBJMh8PwX</pro:Naziv>
+                    <clan:Clan ID="1717706825">
+                        <clan:Naziv>HiRk</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                    <clan:Clan ID="2009379762">
+                        <clan:Naziv>mfPQlfP1pN0.NWuQHmJ6Fchq</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                </pro:Glava>
+                <pro:Glava ID="1667455697">
+                    <pro:Naziv>GMqX0gn</pro:Naziv>
+                    <clan:Clan ID="1620978589">
+                        <clan:Naziv>lP1</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                    <clan:Clan ID="169791436">
+                        <clan:Naziv>NWj42</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                </pro:Glava>
+                <clan:Clan ID="852306447">
+                    <clan:Opis>U._MdesxihZ5wOQPwLE2Za7sqlt</clan:Opis>
+                    <clan:Naziv>zVUg</clan:Naziv>
+                    <clan:Sadrzaj>
+                    </clan:Sadrzaj>
+                </clan:Clan>
+                <clan:Clan ID="1317659721">
+                    <clan:Opis>dD.nktyQ6</clan:Opis>
+                    <clan:Naziv>gzJ6nN3kUFO4b_aPcEUMr</clan:Naziv>
+                    <clan:Sadrzaj>
+                    </clan:Sadrzaj>
+                </clan:Clan>
+            </pro:Deo>
+            <pro:Deo ID="563304841">
+                <pro:Naziv>m9UpchLavsJZ</pro:Naziv>
+                <pro:Glava ID="93634401">
+                    <pro:Naziv>H.NYEaaO-TZ.YXyvpAvWYvOGS</pro:Naziv>
+                    <clan:Clan ID="278069163">
+                        <clan:Naziv>_7alcMz.LZPU</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                    <clan:Clan ID="1521072416">
+                        <clan:Naziv>vIxvp85PUJc7oG7a6VzMAfgoCwhK6D</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                </pro:Glava>
+                <pro:Glava ID="763605277">
+                    <pro:Naziv>hXbix5bY0lHPpHwVY2ZyDd</pro:Naziv>
+                    <clan:Clan ID="81304511">
+                        <clan:Naziv>c76keJE</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                    <clan:Clan ID="1960500941">
+                        <clan:Naziv>f</clan:Naziv>
+                        <clan:Sadrzaj>
+                        </clan:Sadrzaj>
+                    </clan:Clan>
+                </pro:Glava>
+                <clan:Clan ID="842804909">
+                    <clan:Opis>Z44NoosBZsPNTOKfAMFLeXgXeMw</clan:Opis>
+                    <clan:Naziv>zfY7Nd.E5D4t</clan:Naziv>
+                    <clan:Sadrzaj>
+                    </clan:Sadrzaj>
+                </clan:Clan>
+                <clan:Clan ID="822102010">
+                    <clan:Opis>GNCeSqyCEnxI</clan:Opis>
+                    <clan:Naziv>yhQPoBXdIu9bPb4sN</clan:Naziv>
+                    <clan:Sadrzaj>
+                    </clan:Sadrzaj>
+                </clan:Clan>
+            </pro:Deo>
+        </pro:Propis>
+        <aman:Resenje>wOHeEgHHb</aman:Resenje>
+        <aman:Obrazlozenje>uSM4DhG8vAqyb9</aman:Obrazlozenje>
+        <clan:Clan ID="1051668322">
+            <clan:Opis>XrqILMfZbVdZOBwXyQe</clan:Opis>
+            <clan:Naziv>iKbKIvS7hlhi4.mLNcRDjRifJw</clan:Naziv>
+            <clan:Sadrzaj>
+                <clan:Stav>
+                    <clan:Redni_broj>-874945106</clan:Redni_broj>
+                    <clan:Tekst>xa7</clan:Tekst>
+                </clan:Stav>
+                <clan:Stav>
+                    <clan:Redni_broj>1518833445</clan:Redni_broj>
+                    <clan:Tekst>QOGKJ8HA_1I6mQ</clan:Tekst>
+                </clan:Stav>
+                <clan:Tekst>gWegBr3trl6Cp</clan:Tekst>
+                <clan:Tekst>dKCSuGeAjmJ-.NbdOH1RbZid</clan:Tekst>
+            </clan:Sadrzaj>
+        </clan:Clan>
+    </aman:Amandman>
+</akt:Akt>

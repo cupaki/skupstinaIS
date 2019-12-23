@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Amandmani xmlns="http://www.parlament.gov.rs/propis" xmlns:ns2="http://www.parlament.gov.rs/clan" xmlns:ns3="http://www.parlament.gov.rs/amandman">
+    <amandman Mesto="Novi Sad" ID="6863460" Podnosilac="Niko Nikolic">
+        <Propis ID="8806441">
+            <Naziv>Srki propis</Naziv>
+            <Deo ID="5477346">
+                <Naziv>Srki deo</Naziv>
+                <Glava ID="8947483">
+                    <Naziv>Srki glava</Naziv>
+                    <ns2:Clan ID="3725723">
+                        <ns2:Opis>Srki clan opis</ns2:Opis>
+                        <ns2:Naziv>Srki clan</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Srki stav modifikovan stav je</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Srki sadrzaj modifikovan sada</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+                <Glava ID="7524186">
+                    <Naziv>Glava2 srki</Naziv>
+                    <ns2:Clan ID="9671915">
+                        <ns2:Opis>Opis clana2 srki</ns2:Opis>
+                        <ns2:Naziv>Clan2 srki</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Stav srki2</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Sadrzaj, prema clanu :&lt;a&gt;CC2&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenje novo</ns3:Resenje>
+        <ns3:Obrazlozenje>Obrazlozenje novo</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Mesto="Novi Sad" Redni_broj="3" ID="3183409" Podnosilac="Narandzo Nino">
+        <Propis ID="9958718">
+            <Naziv>PP</Naziv>
+            <Deo ID="6890503">
+                <Naziv>DD</Naziv>
+                <Glava ID="9656760">
+                    <Naziv>GG</Naziv>
+                    <ns2:Clan ID="7979548">
+                        <ns2:Opis>CCO2</ns2:Opis>
+                        <ns2:Naziv>CC</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>HM HM HM</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>HM HM HM</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+                <Glava ID="365505">
+                    <Naziv>GG2</Naziv>
+                    <ns2:Clan ID="318314">
+                        <ns2:Opis>CLCLO2</ns2:Opis>
+                        <ns2:Naziv>CC2</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>HM HM</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>SDSD2 &lt;jump xlink:href="localhost:8000/#/clan/Clan link/3957080" xlink:type="simple" xlink:show="replace" &gt;Clan link &lt;/jump&gt;
+
+HM HM</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenje je jako dobro</ns3:Resenje>
+        <ns3:Obrazlozenje>Obrazlozenje je jako dobro</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-12Z" Mesto="Novi Sad" Redni_broj="3" ID="7508681" Podnosilac="Nikola Jovic">
+        <Propis ID="3932730">
+            <Naziv>P sa jump</Naziv>
+            <Deo ID="6933017">
+                <Naziv>D sa jump</Naziv>
+                <Glava ID="1523838">
+                    <Naziv>G sa jump</Naziv>
+                    <ns2:Clan ID="4545496">
+                        <ns2:Opis>CO sa jump</ns2:Opis>
+                        <ns2:Naziv>C sa jump</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>St sa jump</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Sa sa jump</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+                <Glava ID="4423599">
+                    <Naziv>Gl2 sa jump</Naziv>
+                    <ns2:Clan ID="5719426">
+                        <ns2:Opis>CO2 sa jump</ns2:Opis>
+                        <ns2:Naziv>C2 sa jump</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>ST2 sa jump</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>AAA&lt;jump xlink:href="localhost:8000/#/clan/Clan Novi skroz/2377229&gt;Clan Novi skroz &lt;/jump&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenje neko</ns3:Resenje>
+        <ns3:Obrazlozenje>Obrazlozenje neko</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-12Z" Mesto="afafega" Redni_broj="4" ID="6835614" Podnosilac="sadasde">
+        <Propis ID="8655799">
+            <Naziv>Propis neca</Naziv>
+            <Deo ID="3213209">
+                <Naziv>Deo neca</Naziv>
+                <Glava ID="659704">
+                    <Naziv>Glava neca 3</Naziv>
+                    <ns2:Clan ID="112057">
+                        <ns2:Opis>Clan opis neca3</ns2:Opis>
+                        <ns2:Naziv>Clan neca3</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Stav neca 3</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Sadrzaj neca 3 : &lt;a&gt;CL2 XSL&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+                <ns2:Clan ID="7132856">
+                    <ns2:Opis>Opis clana neca</ns2:Opis>
+                    <ns2:Naziv>Clan neca</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Stav neca</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Sadrzaj neca : &lt;a&gt;C XSL&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+                <ns2:Clan ID="7238799">
+                    <ns2:Opis>Opis clana neca 2</ns2:Opis>
+                    <ns2:Naziv>Clan neca 2</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Stav neca 2</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Sadrzaj neca 2 : &lt;a&gt;clan 2 link&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Deo>
+            <Deo ID="8367197">
+                <Naziv>Deo neca 4</Naziv>
+                <Glava ID="9743377">
+                    <Naziv>Glava 4 neca</Naziv>
+                    <ns2:Clan ID="6315822">
+                        <ns2:Opis>Opis clana 4 neca</ns2:Opis>
+                        <ns2:Naziv>Clan 4 neca</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Stav 4 neca</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Sadrzaj 4 neca: &lt;a&gt;clan 2 link&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>eadsad</ns3:Resenje>
+        <ns3:Obrazlozenje>adeasfaf</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Novi Sad" Redni_broj="10" ID="6169878" Podnosilac="stefan halapa">
+        <Propis ID="3234078" Status="usvojen u nacelu">
+            <Naziv>Propis6</Naziv>
+            <Deo ID="2290132">
+                <Naziv>propis novi</Naziv>
+                <Glava ID="5433589">
+                    <Naziv>dsdsadsaa</Naziv>
+                    <ns2:Clan ID="8239462">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>stav</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>sadsada &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenje sad tu nesto pise</ns3:Resenje>
+        <ns3:Obrazlozenje>Obrazlozenje pise</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Novi Sad" Redni_broj="11" ID="9336705" Podnosilac="stefan halapa">
+        <Propis ID="3234078" Status="usvojen u nacelu">
+            <Naziv>Propis6</Naziv>
+            <Deo ID="2290132">
+                <Naziv>propis novi</Naziv>
+                <Glava ID="5433589">
+                    <Naziv>dsdsadsaa</Naziv>
+                    <ns2:Clan ID="8239462">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>stav</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>sadsada &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Novo Resenje</ns3:Resenje>
+        <ns3:Obrazlozenje>Novo Obrazlozenje</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Novi Sad" Redni_broj="8" ID="6948736" Podnosilac="stefan halapa">
+        <Propis ID="3234078" Status="usvojen u nacelu">
+            <Naziv>Propis6</Naziv>
+            <Deo ID="2290132">
+                <Naziv>propis novi</Naziv>
+                <Glava ID="5433589">
+                    <Naziv>dsdsadsaa</Naziv>
+                    <ns2:Clan ID="8239462">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>novi stav</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>12345</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenje:
+menjamo prvi clan SADASDA (sadsada &lt;a&gt;sadasda&lt;/a&gt; u 12345.
+menjamo stav (stav) u novi stav</ns3:Resenje>
+        <ns3:Obrazlozenje>Obrazlozenje je da vezbamo</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Novi Sad" Redni_broj="9" ID="1131137" Podnosilac="stefan halapa">
+        <Propis ID="3234078" Status="usvojen u nacelu">
+            <Naziv>Propis6</Naziv>
+            <Deo ID="2290132">
+                <Naziv>propis novi</Naziv>
+                <Glava ID="5433589">
+                    <Naziv>dsdsadsaa</Naziv>
+                    <ns2:Clan ID="8239462">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Updateovan stav</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>SVE RAD</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Menjam sa 12345 na SVE RADI
+Menjam sa novi stav u Updateovan stav</ns3:Resenje>
+        <ns3:Obrazlozenje>Radi i na vise promena</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="dsfsdfsdfsdf" Redni_broj="6" ID="4584806" Podnosilac="sdfsdfsdgfdfg">
+        <Propis ID="7787345" Status="usvojen">
+            <Naziv>Propis4</Naziv>
+            <Deo ID="384742">
+                <Naziv>sadasda</Naziv>
+                <Glava ID="1346652">
+                    <Naziv>sadasd</Naziv>
+                    <ns2:Clan ID="2493763">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>dsadaeafsaf</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>asdasda &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>dasdasdasdasdfdf</ns3:Resenje>
+        <ns3:Obrazlozenje>fsdfsdfsdfsdf</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Resenjeee" Redni_broj="7" ID="375342" Podnosilac="Stefan Halapa">
+        <Propis ID="9412945">
+            <Naziv>Propis 2</Naziv>
+            <Deo ID="7879277">
+                <Naziv>sadasdas</Naziv>
+                <Glava ID="7440969">
+                    <Naziv>asdasd</Naziv>
+                    <ns2:Clan ID="8249641">
+                        <ns2:Opis>asdasda</ns2:Opis>
+                        <ns2:Naziv>asdasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>asdasdas</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>asdsadas</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Resenjeee</ns3:Resenje>
+        <ns3:Obrazlozenje>Resenjeee</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="amanadda" Redni_broj="8" ID="4181845" Podnosilac="amanadda">
+        <Propis ID="1738770" Status="u proceduri">
+            <Naziv>dfsdfsdf</Naziv>
+            <Deo ID="2816301">
+                <Naziv>sdfsdfsd</Naziv>
+                <Glava ID="7862870">
+                    <Naziv>fsdfsdfsdf</Naziv>
+                    <ns2:Clan ID="8899332">
+                        <ns2:Opis>sdfsdfsdf</ns2:Opis>
+                        <ns2:Naziv>fsdfsdf</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>sdfsdfsdf</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>undefined &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>amanadda</ns3:Resenje>
+        <ns3:Obrazlozenje>DocumentMetadataHandle metadata = new DocumentMetadataHandle();
+		metadata.getCollections().add(collId);</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="jhhkjhkjhkj" Redni_broj="9" ID="8945007" Podnosilac="ytuyutytuiyityu">
+        <Propis ID="7787345" Status="usvojen">
+            <Naziv>Propis4</Naziv>
+            <Deo ID="384742">
+                <Naziv>sadasda</Naziv>
+                <Glava ID="1346652">
+                    <Naziv>sadasd</Naziv>
+                    <ns2:Clan ID="2493763">
+                        <ns2:Opis>sadasda</ns2:Opis>
+                        <ns2:Naziv>sadasda</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>dsadaeafsaf</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>asdasda &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>m,nhm,nnbmn</ns3:Resenje>
+        <ns3:Obrazlozenje>lkjlkjlklkj</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Novi Sad" Redni_broj="7" ID="8228739" Podnosilac="Halapa Stefan">
+        <Propis ID="1738770" Status="usvojen u nacelu">
+            <Naziv>dfsdfsdf</Naziv>
+            <Deo ID="2816301">
+                <Naziv>sdfsdfsd</Naziv>
+                <Glava ID="7862870">
+                    <Naziv>fsdfsdfsdf</Naziv>
+                    <ns2:Clan ID="8899332">
+                        <ns2:Opis>sdfsdfsdf</ns2:Opis>
+                        <ns2:Naziv>fsdfsdf</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>sdfsdfsdf</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>undefined &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Novi amandman</ns3:Resenje>
+        <ns3:Obrazlozenje>2364920</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-15Z" Mesto="Ovo je nesto levo" Redni_broj="9" ID="2240314" Podnosilac="Sveta">
+        <Propis ID="1738770" Status="usvojen u celini">
+            <Naziv>dfsdfsdf</Naziv>
+            <Deo ID="2816301">
+                <Naziv>sdfsdfsd</Naziv>
+                <Glava ID="7862870">
+                    <Naziv>fsdfsdfsdf</Naziv>
+                    <ns2:Clan ID="8899332">
+                        <ns2:Opis>sdfsdfsdf</ns2:Opis>
+                        <ns2:Naziv>fsdfsdf</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>sdfsdfsdf</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>undefined &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>Ovo je nesto levo</ns3:Resenje>
+        <ns3:Obrazlozenje>Ovo je nesto levo</ns3:Obrazlozenje>
+    </amandman>
+<<<<<<< HEAD
+    <amandman Datum="2016-06-15Z" Mesto="dfgdfg" Redni_broj="15" ID="5493487" Podnosilac="stefan halapa">
+        <Propis ID="1629562" Status="usvojen u nacelu">
+            <Naziv>Stttt</Naziv>
+            <Deo ID="4443890">
+                <Naziv>Stttt</Naziv>
+                <Glava ID="3459055">
+                    <Naziv>Stttt</Naziv>
+                    <ns2:Clan ID="1696678">
+                        <ns2:Opis>Stttt</ns2:Opis>
+                        <ns2:Naziv>Stttt</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Stttt</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>undefined &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+=======
+    <amandman Datum="2016-06-16Z" Mesto="Novi Sad" Redni_broj="16" ID="836027" Podnosilac="stefan halapa">
+        <Propis ID="1755552" Status="usvojen u nacelu">
+            <Naziv>Porpis Novi Sada</Naziv>
+            <Deo ID="8722228">
+                <Naziv>Porpis Novi Sada</Naziv>
+                <Glava ID="1702851">
+                    <Naziv>Porpis Novi Sada</Naziv>
+                    <ns2:Clan ID="8739069">
+                        <ns2:Opis>Porpis Novi Sada</ns2:Opis>
+                        <ns2:Naziv>Porpis Novi Sada</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+>>>>>>> master
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+<<<<<<< HEAD
+        <ns3:Resenje>fdgdfg</ns3:Resenje>
+        <ns3:Obrazlozenje>fdgdfgdfg</ns3:Obrazlozenje>
+=======
+        <ns3:Resenje>SDADASDKLSADJLASKLDASLKDASJAK</ns3:Resenje>
+        <ns3:Obrazlozenje>dsakldjaskldjasjdlkasldajks</ns3:Obrazlozenje>
+    </amandman>
+    <amandman Datum="2016-06-16Z" Mesto="Novi Sad" Redni_broj="17" ID="3436447" Podnosilac="stefan halapa">
+        <Propis ID="1755552" Status="usvojen u nacelu">
+            <Naziv>Porpis Novi Sada</Naziv>
+            <Deo ID="8722228">
+                <Naziv>Porpis Novi Sada</Naziv>
+                <Glava ID="1702851">
+                    <Naziv>Porpis Novi Sada</Naziv>
+                    <ns2:Clan ID="8739069">
+                        <ns2:Opis>Porpis Novi Sada</ns2:Opis>
+                        <ns2:Naziv>Porpis Novi Sada</ns2:Naziv>
+                        <ns2:Sadrzaj>
+                            <ns2:Stav>
+<ns2:Redni_broj>1</ns2:Redni_broj>
+<ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                            </ns2:Stav>
+                            <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                        </ns2:Sadrzaj>
+                    </ns2:Clan>
+                </Glava>
+            </Deo>
+        </Propis>
+        <ns3:Resenje>AKJDklasJdlkasjdlasjdlasjkdl</ns3:Resenje>
+        <ns3:Obrazlozenje>kdjklsajdlkasjdlkasjdklasjdl</ns3:Obrazlozenje>
+>>>>>>> master
+    </amandman>
+</Amandmani>

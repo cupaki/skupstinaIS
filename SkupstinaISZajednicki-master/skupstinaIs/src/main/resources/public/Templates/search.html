@@ -1,0 +1,151 @@
+<section class="content">
+<div class="row">
+    <div class="col-md-4" ng-controller="searchAmandmanController">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Pretraga amandmana</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form">
+                <div class="box-body">
+                   
+                    <div class="form-group">
+                        <label f>Redni broj</label>
+                        <input type="text" ng-model="searchEntity.redniBroj" class="form-control" id="exampleInputPassword1" placeholder="Redni broj">
+                    </div>
+
+                    <div class="form-group">
+                        <label f>Podnisilac</label>
+                        <input type="text" ng-model="searchEntity.podnosilac" class="form-control" id="exampleInputPassword1" placeholder="Podnosilac">
+                    </div>
+
+                    <div class="form-group">
+                        <label f>Text</label>
+                        <input type="text" ng-model="searchEntity.text" class="form-control" id="exampleInputPassword1" placeholder="Sadrzaj">
+                    </div>
+                    
+                     <div class="form-group">
+                        <label f>Mesto</label>
+                        <input type="text" ng-model="searchEntity.mesto" class="form-control" id="exampleInputPassword1" placeholder="Mesto">
+                    </div>
+                    <label f>Datum</label>
+                    <div class="input-group">
+                        <md-datepicker ng-model="searchEntity.datum" md-placeholder="Datum"></md-datepicker>
+                    </div>
+                </div>
+                <!-- /.box-body -->
+
+                <div class="box-footer">
+                    <button ng-click="search()" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Rezultati pretrage amandmana</h3>
+                <div class="box-tools pull-right"></div>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                <ul class="products-list product-list-in-box">
+                    <li class="item" ng-repeat="amandman in amandmani">
+                        <div class="product-img">
+                            <img src="dist/img/nsgrb2.gif" alt="Product Image">
+                        </div>
+                        <div class="product-info">
+                            <a href="javascript::;" ng-click="getAmandmanById(amandman.id)" class="product-title">
+                                Amandman redni broj:
+                                {{amandman.redniBroj}}.
+                            </a>
+                            <span class="product-description">
+                                Mesto:
+                                {{amandman.mesto}}
+                                ___ Datum:
+                                {{amandman.datum | date:'medium'}}
+                                ___ Podnosilac:
+                                {{amandman.podnosilac}}
+                            </span>
+                        </div>
+                    </li>
+                    <!-- /.item -->
+                </ul>
+            </div>
+            <!-- /.box-body -->
+        </div>
+    </div>
+
+    <div class="col-md-4" ng-controller="searchPropisiContoller">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Pretraga propisa</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form">
+                <div class="box-body">
+                    <div class="form-group">
+                        <label >Usvojenost</label>
+                        <select ng-model="searchEntity.usvojenost" class="form-control">
+                         	<option>U proceduri</option>
+                            <option>Usvojen u nacelu</option>
+                            <option>Usvojen u celini</option>
+                        </select>
+                    </div>
+
+					<div class="form-group">
+                        <label f>ID</label>
+                        <input type="text" ng-model="searchEntity.id" class="form-control" id="exampleInputPassword1" placeholder="ID">
+                    </div>
+					
+                    <div class="form-group">
+                        <label f>Naziv</label>
+                        <input ng-model="searchEntity.naziv" type="text" class="form-control" id="exampleInputPassword1" placeholder="Naziv">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label f>Text</label>
+                        <input type="text" ng-model="searchEntity.text" class="form-control" id="exampleInputPassword1" placeholder="Sadrzaj">
+                    </div>
+                </div>
+                <!-- /.box-body -->
+                {{propis[0]}}
+                <div class="box-footer">
+                    <button ng-click="search()" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Rezultati pretrage propisa</h3>
+
+                <div class="box-tools pull-right"></div>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                <ul class="products-list product-list-in-box">
+                    <li class="item" ng-repeat="propis in bilosta">
+                        <div class="product-img">
+                            <img src="dist/img/nsgrb2.gif" alt="Product Image">
+                        </div>
+                        <div class="product-info">
+                            <a href="javascript::;" ng-click="getPropisById(propis.id)" class="product-title">{{propis.naziv}}
+                            </a>
+                             <br/>
+									<span class="label label-success pull-left">
+			                          {{propis.status}}
+			                        </span>
+                        </div>
+                    </li>
+                    <!-- /.item -->
+                </ul>
+            </div>
+            <!-- /.box-body -->
+        </div>
+
+    </div>
+
+</div>
+</section>

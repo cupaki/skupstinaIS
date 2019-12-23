@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="http://www.parlament.gov.rs/amandman"
+    xmlns:aman="http://www.parlament.gov.rs/amandman" xmlns:clan="http://www.parlament.gov.rs/clan"
+    xmlns:pro="http://www.parlament.gov.rs/propis">
+
+    <xs:import namespace="http://www.parlament.gov.rs/propis" schemaLocation="propis.xsd"/>
+    <xs:import namespace="http://www.parlament.gov.rs/clan" schemaLocation="clan.xsd"/>
+    <xs:element name="Amandman">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="pro:Propis"/>
+                <xs:element name="Resenje" type="xs:string"/>
+                <xs:element name="Obrazlozenje" type="xs:string"/>
+                <xs:element ref="clan:Clan"/>
+            </xs:sequence>
+            <xs:attribute name="Datum" type="xs:date"/>
+            <xs:attribute name="Mesto" type="xs:string"/>
+            <xs:attribute name="Redni_broj" type="xs:int"/>
+            <xs:attribute name="ID" type="xs:positiveInteger"/>
+            <xs:attribute name="Podnosilac" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

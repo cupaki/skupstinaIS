@@ -1,0 +1,39 @@
+<div align="center" class="row" ng-controller="propisController">
+	<div align="center" class="col-md-6">
+		<div class="box">
+			<div class="box-header">
+				<h3 class="box-title">Propis</h3>
+			</div>
+			<div class="box-body">
+			
+		<h1>	<label for="exampleInputEmail1">Propis naziv: {{propis.naziv}}</label>	</h1>
+			<div ng-repeat="deo in propis.deo">
+		<h2>		<label for="exampleInputEmail1">Deo naziv: {{deo.naziv}}</label>	</h2>
+					<div ng-repeat="glava in deo.glava">
+		<h3>			<label for="exampleInputEmail1">Glava naziv: {{glava.naziv}}</label>	</h3>
+							<div ng-repeat="clan in glava.clan">
+						<h4>	<label for="exampleInputEmail1">Clan naziv: {{clan.naziv}}</label> </h4>
+						<h4>		<label for="exampleInputEmail1">Clan opis: {{clan.opis}}</label> </h4>	
+								<div ng-repeat="tekst in clan.sadrzaj.tekst">
+								<h6>	<label for="exampleInputEmail1">Sadrzaj tekst: {{tekst}}</label> </h6>	
+								</div>
+								<div ng-repeat="stav in clan.sadrzaj.stav">
+								<h4>	<label for="exampleInputEmail1">Stav redniBroj: {{stav.redniBroj}}</label></h4>
+								<h6>	<label for="exampleInputEmail1">Stav tekst: {{stav.tekst}}</label>	</h6>
+								</div>
+								</br>
+								</br>
+							</div>
+					</div>
+					<div ng-repeat="clan in deo.clan">
+						<label for="exampleInputEmail1">Clan2 naziv: {{clan.naziv}}</label>	
+					</div>
+					
+			</div>
+		
+				
+			</div>
+			<!-- /.box-body -->
+		</div>
+	</div>
+</div>

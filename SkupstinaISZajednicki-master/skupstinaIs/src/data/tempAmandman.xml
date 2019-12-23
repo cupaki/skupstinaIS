@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='amandman.xsl' ?>
+<<<<<<< HEAD
+<ns3:Amandman xmlns="http://www.parlament.gov.rs/propis" xmlns:ns2="http://www.parlament.gov.rs/clan" xmlns:ns3="http://www.parlament.gov.rs/amandman" Datum="2016-06-15Z" Mesto="dfgdfg" Redni_broj="15" ID="5493487" Podnosilac="stefan halapa">
+    <Propis ID="1629562" Status="usvojen u nacelu">
+        <Naziv>Stttt</Naziv>
+        <Deo ID="4443890">
+            <Naziv>Stttt</Naziv>
+            <Glava ID="3459055">
+                <Naziv>Stttt</Naziv>
+                <ns2:Clan ID="1696678">
+                    <ns2:Opis>Stttt</ns2:Opis>
+                    <ns2:Naziv>Stttt</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Stttt</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+=======
+<ns3:Amandman xmlns="http://www.parlament.gov.rs/propis" xmlns:ns2="http://www.parlament.gov.rs/clan" xmlns:ns3="http://www.parlament.gov.rs/amandman" Datum="2016-06-16Z" Mesto="Novi Sad" Redni_broj="17" ID="3436447" Podnosilac="stefan halapa">
+    <Propis ID="1755552" Status="usvojen u nacelu">
+        <Naziv>Porpis Novi Sada</Naziv>
+        <Deo ID="8722228">
+            <Naziv>Porpis Novi Sada</Naziv>
+            <Glava ID="1702851">
+                <Naziv>Porpis Novi Sada</Naziv>
+                <ns2:Clan ID="8739069">
+                    <ns2:Opis>Porpis Novi Sada</ns2:Opis>
+                    <ns2:Naziv>Porpis Novi Sada</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+>>>>>>> master
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </Propis>
+<<<<<<< HEAD
+    <ns3:Resenje>fdgdfg</ns3:Resenje>
+    <ns3:Obrazlozenje>fdgdfgdfg</ns3:Obrazlozenje>
+=======
+    <ns3:Resenje>AKJDklasJdlkasjdlasjdlasjkdl</ns3:Resenje>
+    <ns3:Obrazlozenje>kdjklsajdlkasjdlkasjdklasjdl</ns3:Obrazlozenje>
+>>>>>>> master
+</ns3:Amandman>

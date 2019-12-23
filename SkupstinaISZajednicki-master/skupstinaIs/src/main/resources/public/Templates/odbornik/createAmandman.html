@@ -1,0 +1,118 @@
+<div class="row">
+                <div class="col-md-6">
+                    <div class="box box-solid">
+                        <div class="box-header with-border">
+                            <i class="fa fa-text-width"></i>
+                            <h3 class="profile-username text-center">Kreiranje amandmana</h3>
+                        </div>
+                        <!-- /.box-header -->
+                        <div class="box-body">
+                            <form role="form">
+						        <div class="box-body">
+						            <div class="form-group">
+						                <label for="exampleInputPassword1">Resenje</label>
+						                <textarea class="form-control" rows="7" ng-model="amandman.resenje" placeholder="Unesite resenje"></textarea>
+						            </div>
+						            <div>
+						            </div>
+						            <div class="form-group">
+						                <label for="exampleInputPassword1">Obrazlozenje</label>
+						                <textarea class="form-control" rows="4" ng-model="amandman.obrazlozenje" placeholder="Unesite obrazlozenje"></textarea>
+						            </div>
+						            <div class="form-group">
+						                <label >Mesto</label>
+						                <input type="text" class="form-control" ng-model="amandman.mesto" placeholder="Unesite mesto">
+						            </div>
+						            <div class="form-group">
+						                <label >Podnosilac</label>
+						                <input type="text" class="form-control" ng-model="amandman.podnosilac" placeholder="Unesite podnosioca">
+						            </div>
+						          
+						        </div>
+						        <!-- /.box-body -->
+						
+						        
+						
+						    </form>
+						    
+						    <div class="box-footer">
+						            <button type="submit" ng-click="sacuvajPopunjenAmandman()" class="btn btn-primary">Sacuvaj amandman</button>
+						        </div>
+                            
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+
+                    
+                  
+                </div>
+
+
+
+                <div class="col-md-6">
+                    <div class="box box-solid">
+                        <div class="box-header with-border">
+                            <i class="fa fa-text-width"></i>
+                            <h3 class="profile-username text-center">Propis za izmenu : {{propis.naziv}}</h3>
+                        </div>
+                        <!-- /.box-header -->
+                        <div class="box-body">
+
+							<form role="form">
+                               <div class="box-body">
+                                  <div class="form-group" ng-repeat="deo in propis.deo">
+                                     <h1><label for="exampleInputPassword1">{{deo.naziv}}</label></h1>   
+                                        
+                                    <ul>  <div class="form-group" ng-repeat="glava in deo.glava"> 
+                                        <li>	<h2><label for="exampleInputPassword1">{{glava.naziv}}</label></h2>  
+
+                                        		<div class="form-group" ng-repeat="clan in glava.clan">
+                                        			 <h3><label for="exampleInputPassword1">{{clan.naziv}}</label></h3>
+                                        			 <h5><label for="exampleInputPassword1">{{clan.opis}}</label></h5>
+                                        			
+	                                        					<h5><label for="exampleInputPassword1">{{clan.sadrzaj.tekst[0]}}</label></h5>
+	                                        					<textarea class="form-control" rows="5" ng-model="clan.sadrzaj.tekst[0]" placeholder="Enter comment"></textarea>
+                                        				
+                                        				<div class="form-group" ng-repeat="stav in clan.sadrzaj.stav">
+                                        					<h5><label for="exampleInputPassword1">Stav {{stav.redniBroj}}</label></h5></br>
+                                        					<h5><label for="exampleInputPassword1">{{stav.tekst}}</label></h5>
+                                        					<textarea class="form-control" rows="5" ng-model="stav.tekst" placeholder="Enter comment"></textarea>
+                                        				</div>
+                                        		</div>
+                                        		
+                                        		</br>
+                                        	</li>
+                                        </div>
+                                       </ul>
+                                        <hr/>
+                                        <div class="form-group" ng-repeat="clan in deo.clan">
+                                        			<h3><label for="exampleInputPassword1">{{clan.naziv}}</label></h3>
+                                        			 <h5><label for="exampleInputPassword1">{{clan.opis}}</label></h5>
+                                        			
+	                                        				<h5><label for="exampleInputPassword1">{{clan.sadrzaj.tekst[0]}}</label></h5>
+		                                        			<textarea class="form-control" rows="5" ng-model="clan.sadrzaj.tekst[0]" placeholder="Enter comment"></textarea>
+	                                        				
+                                        				
+                                        				<div class="form-group" ng-repeat="stav in clan.sadrzaj.stav">
+                                        					<h5><label for="exampleInputPassword1">Stav {{stav.redniBroj}}</label></h5></br>
+                                        					<h5><label for="exampleInputPassword1">{{stav.tekst}}</label></h5>
+                                        					<textarea class="form-control" rows="5" ng-model="stav.tekst" placeholder="Enter comment"></textarea>
+                                        				</div>
+                                        			
+                                        </div>
+                                        
+                                        </br>
+                                        </br>
+                                        
+                                  </div>
+                               </div>
+                               
+                            </form>    
+                            
+                                                    
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+            </div>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Propisi xmlns="http://www.parlament.gov.rs/propis" xmlns:ns2="http://www.parlament.gov.rs/clan">
+    <propis ID="9412945">
+        <Naziv>Propis 2</Naziv>
+        <Deo ID="7879277">
+            <Naziv>sadasdas</Naziv>
+            <Glava ID="7440969">
+                <Naziv>asdasd</Naziv>
+                <ns2:Clan ID="8249641">
+                    <ns2:Opis>asdasda</ns2:Opis>
+                    <ns2:Naziv>asdasda</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>asdasdas</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>asdsadas</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="2826956">
+        <Naziv>Propis sa statusom</Naziv>
+        <Deo ID="5837204">
+            <Naziv>Deo neki</Naziv>
+            <ns2:Clan ID="2602162">
+                <ns2:Opis>opis clana 1</ns2:Opis>
+                <ns2:Naziv>clan 1</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>stav sad 1</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>2</ns2:Redni_broj>
+                        <ns2:Tekst>stav 2 bi trebalo</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>sadrzaj 1</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Deo>
+    </propis>
+    <propis ID="2348188" Status="usvojen">
+        <Naziv>Propis sa statusom 2</Naziv>
+        <Deo ID="6453595">
+            <Naziv>sadasda</Naziv>
+            <Glava ID="7733784">
+                <Naziv>asdasda</Naziv>
+                <ns2:Clan ID="7775369">
+                    <ns2:Opis>sadada</ns2:Opis>
+                    <ns2:Naziv>asdasdas</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>asdsadasda</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>asdsada &lt;a&gt;asdasda&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="433152" Status="usvojen u celini">
+        <Naziv>Propis sa statusom 3</Naziv>
+        <Deo ID="850155">
+            <Naziv>asdasd</Naziv>
+            <ns2:Clan ID="4531284">
+                <ns2:Opis>DSAdasda</ns2:Opis>
+                <ns2:Naziv>sadasd</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>STAV DDASDASDAS</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>2</ns2:Redni_broj>
+                        <ns2:Tekst>sadasdA</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>SADASDA &lt;a&gt;asdasda&lt;/a&gt;</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Deo>
+    </propis>
+    <propis ID="7787345" Status="usvojen">
+        <Naziv>Propis4</Naziv>
+        <Deo ID="384742">
+            <Naziv>sadasda</Naziv>
+            <Glava ID="1346652">
+                <Naziv>sadasd</Naziv>
+                <ns2:Clan ID="2493763">
+                    <ns2:Opis>sadasda</ns2:Opis>
+                    <ns2:Naziv>sadasda</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>dsadaeafsaf</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>asdasda &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="1738770" Status="usvojen u celini">
+        <Naziv>dfsdfsdf</Naziv>
+        <Deo ID="2816301">
+            <Naziv>sdfsdfsd</Naziv>
+            <Glava ID="7862870">
+                <Naziv>fsdfsdfsdf</Naziv>
+                <ns2:Clan ID="8899332">
+                    <ns2:Opis>sdfsdfsdf</ns2:Opis>
+                    <ns2:Naziv>fsdfsdf</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>sdfsdfsdf</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;asdasdas&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="3234078" Status="usvojen u celini">
+        <Naziv>Propis6</Naziv>
+        <Deo ID="2290132">
+            <Naziv>propis novi</Naziv>
+            <Glava ID="5433589">
+                <Naziv>dsdsadsaa</Naziv>
+                <ns2:Clan ID="8239462">
+                    <ns2:Opis>sadasda</ns2:Opis>
+                    <ns2:Naziv>sadasda</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Updateovan update stav</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>SVE RADI UPDATE</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="7976335" Status="usvojen u celini">
+        <Naziv>Propis10 deda</Naziv>
+        <Deo ID="6089888">
+            <Naziv>sadasdadasa</Naziv>
+            <Glava ID="1031939">
+                <Naziv>sadasdadas</Naziv>
+                <ns2:Clan ID="8120072">
+                    <ns2:Opis>sadasdad</ns2:Opis>
+                    <ns2:Naziv>sadasdasdsa</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>111</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>111</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="461226" Status="usvojen u celini">
+        <Naziv>StefanNnn</Naziv>
+        <Deo ID="1395602">
+            <Naziv>StefanNnn</Naziv>
+            <Glava ID="8948266">
+                <Naziv>StefanNnn</Naziv>
+                <ns2:Clan ID="8985906">
+                    <ns2:Opis>StefanNnn</ns2:Opis>
+                    <ns2:Naziv>StefanNnn</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>StefanNnn</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="1629562" Status="usvojen u celini">
+        <Naziv>Stttt</Naziv>
+        <Deo ID="4443890">
+            <Naziv>Stttt</Naziv>
+            <Glava ID="3459055">
+                <Naziv>Stttt</Naziv>
+                <ns2:Clan ID="1696678">
+                    <ns2:Opis>Stttt</ns2:Opis>
+                    <ns2:Naziv>Stttt</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Stttt</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;sadasda&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="6517971" Status="usvojen u celini">
+        <Naziv>BASssss</Naziv>
+        <Deo ID="1561250">
+            <Naziv>BASssss</Naziv>
+            <Glava ID="3827990">
+                <Naziv>BASssss</Naziv>
+                <ns2:Clan ID="9049156">
+                    <ns2:Opis>BASssss</ns2:Opis>
+                    <ns2:Naziv>BASssss</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>BASssss</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;sadasdasdsa&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="1449624" Status="usvojen u celini">
+        <Naziv>OV je</Naziv>
+        <Deo ID="4332128">
+            <Naziv>OV je</Naziv>
+            <Glava ID="8620773">
+                <Naziv>OV je</Naziv>
+                <ns2:Clan ID="5027156">
+                    <ns2:Opis>OV je</ns2:Opis>
+                    <ns2:Naziv>OV je</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>OV je</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;sadasdasdsa&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4803436" Status="usvojen u celini">
+        <Naziv>OVAJ</Naziv>
+        <Deo ID="8020087">
+            <Naziv>OVAJ</Naziv>
+            <Glava ID="4512288">
+                <Naziv>OVAJ</Naziv>
+                <ns2:Clan ID="9166899">
+                    <ns2:Opis>OVAJ</ns2:Opis>
+                    <ns2:Naziv>OVAJ</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>OVAJ</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9649571" Status="usvojen u celini">
+        <Naziv>Ovajssd</Naziv>
+        <Deo ID="7130743">
+            <Naziv>Ovajssd</Naziv>
+            <Glava ID="8207223">
+                <Naziv>Ovajssd</Naziv>
+                <ns2:Clan ID="1677386">
+                    <ns2:Opis>Ovajssd</ns2:Opis>
+                    <ns2:Naziv>Ovajssd</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Ovajssd</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="8980931" Status="usvojen u celini">
+        <Naziv>BASSS</Naziv>
+        <Deo ID="5671509">
+            <Naziv>BASSS</Naziv>
+            <Glava ID="7200669">
+                <Naziv>BASSS</Naziv>
+                <ns2:Clan ID="2097769">
+                    <ns2:Opis>BASSS</ns2:Opis>
+                    <ns2:Naziv>BASSS</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>BASSS</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9023486" Status="usvojen u celini">
+        <Naziv>Propis NOVI</Naziv>
+        <Deo ID="2484256">
+            <Naziv>Propis NOVI</Naziv>
+            <Glava ID="1780591">
+                <Naziv>Propis NOVI</Naziv>
+                <ns2:Clan ID="8621694">
+                    <ns2:Opis>Propis NOVI</ns2:Opis>
+                    <ns2:Naziv>Propis NOVI</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Propis NOVI</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Propis NOVI</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4425099" Status="usvojen u celini">
+        <Naziv>Propis NOVI2</Naziv>
+        <Deo ID="5966696">
+            <Naziv>Propis NOVI2</Naziv>
+            <Glava ID="7918921">
+                <Naziv>Propis NOVI2</Naziv>
+                <ns2:Clan ID="3120727">
+                    <ns2:Opis>Propis NOVI2</ns2:Opis>
+                    <ns2:Naziv>Propis NOVI2</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Propis NOVI2</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Propis NOVI2</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="5716747" Status="usvojen u celini">
+        <Naziv>Ajd SAD</Naziv>
+        <Deo ID="3937332">
+            <Naziv>Ajd SAD</Naziv>
+            <Glava ID="8108620">
+                <Naziv>Ajd SAD</Naziv>
+                <ns2:Clan ID="4296116">
+                    <ns2:Opis>Ajd SAD</ns2:Opis>
+                    <ns2:Naziv>Ajd SAD</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Ajd SAD</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="1796964" Status="usvojen u celini">
+        <Naziv>UUUHHH</Naziv>
+        <Deo ID="3161406">
+            <Naziv>UUUHHH</Naziv>
+            <Glava ID="5890845">
+                <Naziv>UUUHHH</Naziv>
+                <ns2:Clan ID="8703244">
+                    <ns2:Opis>UUUHHH</ns2:Opis>
+                    <ns2:Naziv>UUUHHH</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>UUUHHH</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="2490186" Status="usvojen u celini">
+        <Naziv>AJJJJJJJ</Naziv>
+        <Deo ID="1284205">
+            <Naziv>AJJJJJJJ</Naziv>
+            <Glava ID="6724385">
+                <Naziv>AJJJJJJJ</Naziv>
+                <ns2:Clan ID="8319622">
+                    <ns2:Opis>AJJJJJJJ</ns2:Opis>
+                    <ns2:Naziv>AJJJJJJJ</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>AJJJJJJJ</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst> &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="6688062" Status="usvojen u celini">
+        <Naziv>AAADD</Naziv>
+        <Deo ID="4768685">
+            <Naziv>AAADD</Naziv>
+            <Glava ID="7568646">
+                <Naziv>AAADD</Naziv>
+                <ns2:Clan ID="7106961">
+                    <ns2:Opis>AAADD</ns2:Opis>
+                    <ns2:Naziv>AAADD</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>AAADD</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9696504" Status="usvojen u celini">
+        <Naziv>AAADD</Naziv>
+        <Deo ID="5309214">
+            <Naziv>AAADD</Naziv>
+            <Glava ID="1216757">
+                <Naziv>AAADD</Naziv>
+                <ns2:Clan ID="2633211">
+                    <ns2:Opis>AAADD</ns2:Opis>
+                    <ns2:Naziv>AAADD</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>AAADD</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4469303" Status="usvojen u celini">
+        <Naziv>dataToSend</Naziv>
+        <Deo ID="1059080">
+            <Naziv>dataToSend</Naziv>
+            <Glava ID="9366667">
+                <Naziv>dataToSend</Naziv>
+                <ns2:Clan ID="5361934">
+                    <ns2:Opis>dataToSend</ns2:Opis>
+                    <ns2:Naziv>dataToSend</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>dataToSend</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;AJJJJJJJ&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="3652920" Status="usvojen u celini">
+        <Naziv>dataToSend</Naziv>
+        <Deo ID="6080988">
+            <Naziv>dataToSend</Naziv>
+            <Glava ID="2865777">
+                <Naziv>dataToSend</Naziv>
+                <ns2:Clan ID="9470547">
+                    <ns2:Opis>dataToSend</ns2:Opis>
+                    <ns2:Naziv>dataToSend</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>dataToSend</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;StefanNnn&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="5534739" Status="usvojen u celini">
+        <Naziv>Ajdddd</Naziv>
+        <Deo ID="2166449">
+            <Naziv>Ajdddd</Naziv>
+            <Glava ID="147188">
+                <Naziv>Ajdddd</Naziv>
+                <ns2:Clan ID="6534403">
+                    <ns2:Opis>Ajdddd</ns2:Opis>
+                    <ns2:Naziv>Ajdddd</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Ajdddd</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Ajdddd</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="2387030" Status="usvojen u celini">
+        <Naziv>WEWE</Naziv>
+        <Deo ID="525396">
+            <Naziv>WEWE</Naziv>
+            <Glava ID="5999178">
+                <Naziv>WEWE</Naziv>
+                <ns2:Clan ID="9114223">
+                    <ns2:Opis>WEWE</ns2:Opis>
+                    <ns2:Naziv>WEWE</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>WEWE</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="888453" Status="usvojen u celini">
+        <Naziv>DDDDD</Naziv>
+        <Deo ID="7247125">
+            <Naziv>DDDDD</Naziv>
+            <Glava ID="1959718">
+                <Naziv>DDDDD</Naziv>
+                <ns2:Clan ID="4207997">
+                    <ns2:Opis>DDDDD</ns2:Opis>
+                    <ns2:Naziv>DDDDD</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>DDDDD</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="7553031" Status="usvojen u celini">
+        <Naziv>kkkk</Naziv>
+        <Deo ID="5067413">
+            <Naziv>kkkk</Naziv>
+            <Glava ID="6559238">
+                <Naziv>kkkk</Naziv>
+                <ns2:Clan ID="9340329">
+                    <ns2:Opis>kkkk</ns2:Opis>
+                    <ns2:Naziv>kkkk</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>kkkk</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;StefanNnn&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9249789" Status="usvojen u celini">
+        <Naziv>ppppp</Naziv>
+        <Deo ID="1094773">
+            <Naziv>pppppv</Naziv>
+            <Glava ID="1310510">
+                <Naziv>ppppp</Naziv>
+                <ns2:Clan ID="1821406">
+                    <ns2:Opis>ppppp</ns2:Opis>
+                    <ns2:Naziv>ppppp</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>ppppp</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4325042" Status="usvojen u celini">
+        <Naziv>rrrr</Naziv>
+        <Deo ID="4709051">
+            <Naziv>rrrr</Naziv>
+            <Glava ID="8489082">
+                <Naziv>rrrr</Naziv>
+                <ns2:Clan ID="8843422">
+                    <ns2:Opis>rrrr</ns2:Opis>
+                    <ns2:Naziv>rrrr</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>rrrr</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9144839" Status="usvojen u celini">
+        <Naziv>RRR</Naziv>
+        <Deo ID="3303031">
+            <Naziv>RRR</Naziv>
+            <Glava ID="3351401">
+                <Naziv>RRR</Naziv>
+                <ns2:Clan ID="6279843">
+                    <ns2:Opis>RRR</ns2:Opis>
+                    <ns2:Naziv>RRR</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>RRR</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="6345849" Status="usvojen u celini">
+        <Naziv>OOOOJJ</Naziv>
+        <Deo ID="2835570">
+            <Naziv>OOOOJJ</Naziv>
+            <Glava ID="6644823">
+                <Naziv>OOOOJJ</Naziv>
+                <ns2:Clan ID="4131295">
+                    <ns2:Opis>OOOOJJ</ns2:Opis>
+                    <ns2:Naziv>OOOOJJ</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>OOOOJJ</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="7234819" Status="usvojen u celini">
+        <Naziv>QW</Naziv>
+        <Deo ID="3182076">
+            <Naziv>QW</Naziv>
+            <Glava ID="9354270">
+                <Naziv>QW</Naziv>
+                <ns2:Clan ID="6607848">
+                    <ns2:Opis>QW</ns2:Opis>
+                    <ns2:Naziv>QW</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>QW</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="8799377" Status="usvojen u celini">
+        <Naziv>WER</Naziv>
+        <Deo ID="9925473">
+            <Naziv>WER</Naziv>
+            <Glava ID="7984089">
+                <Naziv>WER</Naziv>
+                <ns2:Clan ID="7627008">
+                    <ns2:Opis>WER</ns2:Opis>
+                    <ns2:Naziv>WER</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>WER</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9753833" Status="usvojen u celini">
+        <Naziv>fdsfsdf</Naziv>
+        <Deo ID="4180431">
+            <Naziv>fdsfsdf</Naziv>
+            <Glava ID="8810969">
+                <Naziv>fdsfsdf</Naziv>
+                <ns2:Clan ID="8718433">
+                    <ns2:Opis>fdsfsdf</ns2:Opis>
+                    <ns2:Naziv>fdsfsdf</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>fdsfsdf</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9679890" Status="usvojen u celini">
+        <Naziv>RRTR</Naziv>
+        <Deo ID="7989051">
+            <Naziv>RRTR</Naziv>
+            <Glava ID="8216004">
+                <Naziv>RRTR</Naziv>
+                <ns2:Clan ID="618099">
+                    <ns2:Opis>RRTR</ns2:Opis>
+                    <ns2:Naziv>RRTR</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>RRTR</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9627212" Status="usvojen u celini">
+        <Naziv>PRAVI</Naziv>
+        <Deo ID="954189">
+            <Naziv>PRAVI</Naziv>
+            <Glava ID="9283048">
+                <Naziv>PRAVI</Naziv>
+                <ns2:Clan ID="3817347">
+                    <ns2:Opis>PRAVI</ns2:Opis>
+                    <ns2:Naziv>PRAVI</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>PRAVI</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;StefanNnn&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4042997" Status="usvojen u celini">
+        <Naziv>RERER</Naziv>
+        <Deo ID="6117638">
+            <Naziv>RERER</Naziv>
+            <Glava ID="8440076">
+                <Naziv>RERER</Naziv>
+                <ns2:Clan ID="7371179">
+                    <ns2:Opis>RERER</ns2:Opis>
+                    <ns2:Naziv>RERER</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>RERER</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="2063218" Status="usvojen u celini">
+        <Naziv>RERETY</Naziv>
+        <Deo ID="9306661">
+            <Naziv>RERETY</Naziv>
+            <Glava ID="1786274">
+                <Naziv>RERETY</Naziv>
+                <ns2:Clan ID="8970507">
+                    <ns2:Opis>RERETY</ns2:Opis>
+                    <ns2:Naziv>RERETY</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>RERETY</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;StefanNnn&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9785489" Status="usvojen u celini">
+        <Naziv>dasdasf</Naziv>
+        <Deo ID="1134808">
+            <Naziv>fdsfsdf</Naziv>
+            <Glava ID="8154839">
+                <Naziv>fsdfsdf</Naziv>
+                <ns2:Clan ID="4609063">
+                    <ns2:Opis>sdfsdf</ns2:Opis>
+                    <ns2:Naziv>sdfsd</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>fsdfsdf</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="9850809" Status="usvojen u celini">
+        <Naziv>dsfsdfsdf</Naziv>
+        <Deo ID="2780956">
+            <Naziv>fsdfsdfg</Naziv>
+            <Glava ID="3835859">
+                <Naziv>sdfsdfsdf</Naziv>
+                <ns2:Clan ID="3093587">
+                    <ns2:Opis>fsdfsdf</ns2:Opis>
+                    <ns2:Naziv>dsfsdfsdf</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>fsdfsdfsdf</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;BASssss&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="7023466" Status="usvojen u celini">
+        <Naziv>Arhiv</Naziv>
+        <Deo ID="8372831">
+            <Naziv>Arhiv</Naziv>
+            <Glava ID="7439482">
+                <Naziv>Arhiv</Naziv>
+                <ns2:Clan ID="6493280">
+                    <ns2:Opis>Arhiv</ns2:Opis>
+                    <ns2:Naziv>Arhiv</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Arhiv</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>undefined &lt;a&gt;Stttt&lt;/a&gt;</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="1755552" Status="usvojen u celini">
+        <Naziv>Porpis Novi Sada</Naziv>
+        <Deo ID="8722228">
+            <Naziv>Porpis Novi Sada</Naziv>
+            <Glava ID="1702851">
+                <Naziv>Porpis Novi Sada</Naziv>
+                <ns2:Clan ID="8739069">
+                    <ns2:Opis>Porpis Novi Sada</ns2:Opis>
+                    <ns2:Naziv>Porpis Novi Sada</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>Porpis Novi Sada</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+        </Deo>
+    </propis>
+    <propis ID="4834901" Status="usvojen u celini">
+        <Naziv>G</Naziv>
+        <Deo ID="9145879">
+            <Naziv>G</Naziv>
+            <ns2:Clan ID="5243129">
+                <ns2:Opis>G</ns2:Opis>
+                <ns2:Naziv>G</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>G</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>G</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Deo>
+    </propis>
+    <propis ID="8135474" Status="usvojen u nacelu">
+        <Naziv>Propis clan</Naziv>
+        <Deo ID="6316850">
+            <Naziv>dasdas</Naziv>
+            <Glava ID="7851376">
+                <Naziv>Glava2</Naziv>
+                <ns2:Clan ID="9867665">
+                    <ns2:Opis>dsada</ns2:Opis>
+                    <ns2:Naziv>sadasda</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>sadasda</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>asdasda</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+                <ns2:Clan ID="2087150">
+                    <ns2:Opis>dsadasd</ns2:Opis>
+                    <ns2:Naziv>asdasdas</ns2:Naziv>
+                    <ns2:Sadrzaj>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>1</ns2:Redni_broj>
+                            <ns2:Tekst>sadasdasa</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Stav>
+                            <ns2:Redni_broj>2</ns2:Redni_broj>
+                            <ns2:Tekst>asdasdsadasd</ns2:Tekst>
+                        </ns2:Stav>
+                        <ns2:Tekst>dasdas</ns2:Tekst>
+                    </ns2:Sadrzaj>
+                </ns2:Clan>
+            </Glava>
+            <ns2:Clan ID="1771087">
+                <ns2:Opis>dasdas</ns2:Opis>
+                <ns2:Naziv>sadas</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>sadasda</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>asdsada</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Deo>
+    </propis>
+</Propisi>

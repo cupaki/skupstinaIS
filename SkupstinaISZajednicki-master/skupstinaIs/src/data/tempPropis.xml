@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='propis.xsl' ?>
+<Propis xmlns="http://www.parlament.gov.rs/propis" xmlns:ns2="http://www.parlament.gov.rs/clan" ID="5898559" Status="u proceduri">
+    <Naziv>Propis bez stava</Naziv>
+    <Deo ID="8221702">
+        <Naziv>Deo bez stava</Naziv>
+        <Glava ID="1719192">
+            <Naziv>sadasda</Naziv>
+            <ns2:Clan ID="4127739">
+                <ns2:Opis>asdasdsa</ns2:Opis>
+                <ns2:Naziv>sadasda</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>Stav</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>2</ns2:Redni_broj>
+                        <ns2:Tekst>Stav2</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>sadasdsa</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Glava>
+    </Deo>
+    <Deo ID="6150629">
+        <Naziv>Deo2</Naziv>
+        <Glava ID="9710491">
+            <Naziv>glava asdasdas</Naziv>
+            <ns2:Clan ID="6654760">
+                <ns2:Opis>opis sadasda</ns2:Opis>
+                <ns2:Naziv>clan sdaadsa</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>1</ns2:Redni_broj>
+                        <ns2:Tekst>STAV</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Stav>
+                        <ns2:Redni_broj>2</ns2:Redni_broj>
+                        <ns2:Tekst>STAV2</ns2:Tekst>
+                    </ns2:Stav>
+                    <ns2:Tekst>sadrzaj</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Glava>
+    </Deo>
+    <Deo ID="9867668">
+        <Naziv>DEO 2 CLAN</Naziv>
+        <Glava ID="2156732">
+            <Naziv>GLAVA SADA NOVA</Naziv>
+            <ns2:Clan ID="3578065">
+                <ns2:Opis>dsdasasd</ns2:Opis>
+                <ns2:Naziv>sadasda</ns2:Naziv>
+                <ns2:Sadrzaj>
+                    <ns2:Tekst>asdasdasdas</ns2:Tekst>
+                </ns2:Sadrzaj>
+            </ns2:Clan>
+        </Glava>
+        <ns2:Clan ID="1525143">
+            <ns2:Opis>Opis</ns2:Opis>
+            <ns2:Naziv>Clan</ns2:Naziv>
+            <ns2:Sadrzaj>
+                <ns2:Stav>
+                    <ns2:Redni_broj>1</ns2:Redni_broj>
+                    <ns2:Tekst>STAV</ns2:Tekst>
+                </ns2:Stav>
+                <ns2:Tekst>Sadrzaj</ns2:Tekst>
+            </ns2:Sadrzaj>
+        </ns2:Clan>
+        <ns2:Clan ID="2604065">
+            <ns2:Opis>asdasdada</ns2:Opis>
+            <ns2:Naziv>CLAN NOVI3</ns2:Naziv>
+            <ns2:Sadrzaj>
+                <ns2:Stav>
+                    <ns2:Redni_broj>1</ns2:Redni_broj>
+                    <ns2:Tekst>Sdadasdas</ns2:Tekst>
+                </ns2:Stav>
+                <ns2:Tekst>Sadrzaj</ns2:Tekst>
+            </ns2:Sadrzaj>
+        </ns2:Clan>
+    </Deo>
+</Propis>

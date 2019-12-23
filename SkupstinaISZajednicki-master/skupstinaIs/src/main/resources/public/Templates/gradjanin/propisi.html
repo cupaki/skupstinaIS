@@ -1,0 +1,26 @@
+<div class="box box-primary" ng-controller="propisiController">
+    <div class="box-header with-border">
+        <h3 class="box-title">Pregled svih propisa</h3>
+        <div class="box-tools pull-right"></div>
+    </div>
+    <!-- /.box-header -->
+    <div class="box-body">
+        <ul class="products-list product-list-in-box">
+            <li class="item" ng-repeat="propis in propisi">
+                <div class="product-img">
+                    <img src="dist/img/nsgrb2.gif" alt="Product Image">
+                </div>
+                <div class="product-info">
+                    <a href="javascript::;" ng-click="getPropisById(propis.id)" class="product-title">{{propis.naziv}}
+                    </a>
+                    <br/>
+					 <span class="label label-success pull-left">
+                          {{propis.status}}
+                        </span>
+                </div>
+            </li>
+            <!-- /.item -->
+        </ul>
+    </div>
+    <!-- /.box-body -->
+</div>
